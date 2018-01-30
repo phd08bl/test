@@ -1,0 +1,49 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"font_face": "Ubuntu Mono",
+	"font_options": "subpixel_antialias",
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"mdpopups.sublime_user_lang_map": null,
+	"mdpopups.use_sublime_highlighter": null,
+	"rulers":
+	[
+		100
+	],
+	"scroll_past_end": true,
+	"skin": "Boxy Theme/Boxy Monokai ★ Predawn",
+	"tab_completion": false,
+	"tab_size": 4,
+	"theme": "Boxy Monokai.sublime-theme",
+	"theme_accent_tangerine": true,
+	"theme_autocomplete_item_selected_colored": true,
+	"theme_bar_margin_top_sm": true,
+	"theme_dropdown_atomized": true,
+	"theme_find_panel_close_hidden": true,
+	"theme_icon_button_highlighted": true,
+	"theme_panel_switcher_atomized": true,
+	"theme_quick_panel_item_selected_colored": true,
+	"theme_quick_panel_size_md": true,
+	"theme_scrollbar_colored": true,
+	"theme_scrollbar_line": true,
+	"theme_sidebar_close_always_visible": true,
+	"theme_sidebar_folder_atomized": true,
+	"theme_statusbar_size_md": true,
+	"theme_tab_close_always_visible": true,
+	"theme_tab_selected_overlined": true,
+	"theme_tab_size_md": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": true
+}
