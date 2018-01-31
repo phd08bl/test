@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"color_scheme": "Packages/sublime-monokai-extended/Monokai Extended.tmTheme",
 	"font_face": "Ubuntu Mono",
 	"font_options": "subpixel_antialias",
 	"font_size": 11,
