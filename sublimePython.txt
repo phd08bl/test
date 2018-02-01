@@ -96,3 +96,17 @@ REPL Build Code:
 	"id": "repl_python_run", 
 	"file": "config/Python/Main.sublime-menu" 
 }
+
+
+
+
+
+"首选项"→"插件设置"→"SublimeREPL"→"Settings - User"，添加以下内容
+
+{
+    "default_extend_env": {"PATH": "{PATH};C:\\Python27"},
+}
+
+
+
+
