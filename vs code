@@ -1,19 +1,22 @@
 settings
-{
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
-    "python.pythonPath": "D:\\Program Files\\Python\\Python36-32",
-    "git.ignoreMissingGitWarning": true,
-    "workbench.colorTheme": "Seti Monokai",
-    "editor.fontFamily": "Source Code Pro, 'Courier New', monospace",
-    "editor.renderLineHighlight": "none",
-    "editor.lineHeight": 24,
-    "editor.roundedSelection": false,
-    "editor.fontSize": 12,
-    "editor.rulers": [79,120],
-    "workbench.iconTheme": "seti",
+{    "git.ignoreMissingGitWarning": true,
+      "workbench.colorTheme": "Seti Monokai",
+      "editor.fontFamily": "Source Code Pro, 'Courier New', monospace",  
+      // "editor.renderLineHighlight": "none",     //"editor.lineHeight": 24,     
+      //"editor.roundedSelection": false,     
+      //"editor.fontSize": 14,    
+      "editor.rulers": [        100    ],    
+      "workbench.iconTheme": "seti",    
+      "[latex]": {},    
+      "editor.minimap.enabled": false,    
+      "python.linting.enabled": true,   
+      "python.linting.pep8Enabled": true,    
+      "editor.formatOnSave": true,    
+      "python.formatting.provider": "autopep8",
+ }
 
-}
-
+workspace
+"python.pythonPath": "C:\\Users\\9888120\\AppData\\Local\\Continuum\\anaconda3\\python.exe",
 
 tasks:
 {
