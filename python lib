@@ -1,3 +1,12 @@
 nltk
 enchant
 wordcloud
+
+
+Type into the Command Prompt window:
+set path=%path%;C:\Python27\
+
+cd downloads\simplejson-2.1.6
+
+python setup.py install
+
