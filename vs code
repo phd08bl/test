@@ -32,3 +32,5 @@ tasks:
 
 Run Selection/Line in Python Terminal   
 python.execSelectionInTerminal  
+
+{ "key": "ctrl+alt+n", "command": "python.execInTerminal", "when": "editorTextFocus && !editorHasSelection" }
